@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JavaRefreshProvider
+Bundle-SymbolicName: JavaRefreshProvider;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: com.trans.eclipseJavaRefresher.JavaRefreshProviderPlugin
+Bundle-Vendor: Transempiric
+Export-Package: com.trans.eclipseJavaRefresher
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.core.resources
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Eclipse-LazyStart: true

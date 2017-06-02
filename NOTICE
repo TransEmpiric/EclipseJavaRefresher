@@ -1,0 +1,7 @@
+Modifications:
+2017.06.02
+* Added ability to pass in Comma-separated String of directories to monitor via System Property (javaRefresher.dirs).
+* Re-named project to EclipseJavaRefresher.
+* Re-named source directories to com.trans.eclipseJavaRefresher.
+* Re-named java source files to exclude "7".
+(Robb Merritt)
