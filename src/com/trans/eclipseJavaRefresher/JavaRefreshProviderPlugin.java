@@ -12,7 +12,7 @@ import org.eclipse.core.runtime.Plugin;
 public class JavaRefreshProviderPlugin extends Plugin {
 
 	public static void main(String[] args) throws Exception {
-		Path path = Paths.get("/home/robb/workspace");
+		Path path = Paths.get("/");
 		WatchService watchService = path.getFileSystem().newWatchService();
 		
 		path.register(watchService,
