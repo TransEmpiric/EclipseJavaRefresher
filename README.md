@@ -1,4 +1,4 @@
-EclipseJava7Refresher
+EclipseJavaRefresher
 ================
 
 Forked from https://github.com/psxpaul/EclipseJava7Refresher.
